@@ -1,7 +1,5 @@
 # flutter_voice_recording_to_text_convert
 
-# flutter_speech_to_text_convert
-
 A new Flutter project.
 
 ## Getting Started
@@ -43,9 +41,11 @@ Select Product -> Archive
 Follow the uploading steps
 𝐒𝐭𝐢𝐥𝐥 𝐍𝐞𝐞𝐝 𝐚 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐟𝐨𝐫 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 ??
 
-𝐇𝐢𝐫𝐞 𝐦𝐞 : https://www.fiverr.com/kalpeshkhandla?up_rollout=true
-𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 : https://www.linkedin.com/in/kalpesh-khandla-11693541/
-𝐓𝐰𝐢𝐭𝐭𝐞𝐫 : 𝐡𝐭𝐭𝐩𝐬://𝐭𝐰𝐢𝐭𝐭𝐞𝐫.𝐜𝐨𝐦/𝐤𝐡𝐚𝐧𝐝𝐥𝐚𝟐𝟎
+- [Lab: Hire me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
+- [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
+- [Drop me your message](https://twitter.com/khandla20)
+
+
 𝐄𝐦𝐚𝐢𝐥 : 𝐤𝐡𝐚𝐧𝐝𝐥𝐚𝐤𝐚𝐥𝐩𝐞𝐬𝐡𝟐𝟎@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 𝐋𝐞𝐭 𝐦𝐞 𝐤𝐧𝐨𝐰 𝐢𝐟 𝐢 𝐜𝐚𝐧 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮 𝐰𝐢𝐭𝐡 𝐟𝐥𝐮𝐭𝐭𝐞𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
 
